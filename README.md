@@ -10,7 +10,7 @@ This project focuses on training an ANN to recognize and classify hand-written d
 
 ## Prerequisites
 
-Before running the code, ensure you have the following dependencies installed:
+Library in use:
 
 - Python
 - TensorFlow
