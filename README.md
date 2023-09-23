@@ -43,4 +43,4 @@ w -= learning_rate * dw
 
 
 # Training
-![Alt Text](mnist_train_test_l_0_001.png)
+- ![Alt Text](mnist_train_test_l_0_001.png)
