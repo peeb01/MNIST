@@ -31,7 +31,7 @@ The MNIST dataset is used for training and testing. It consists of 60,000 traini
 
 ![Alt Text](forward_propEquation.png)
 
-## back propagatio
+## back propagation
         
 ![Alt Text](back_propEquation.png)
 
