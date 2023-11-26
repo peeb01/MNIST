@@ -27,7 +27,7 @@ The MNIST dataset is used for training and testing. It consists of 60,000 traini
 
 # Code Structure
 
-## forward propagatim
+## forward propagation
 
 ![Alt Text](forward_propEquation.png)
 
